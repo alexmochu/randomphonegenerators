@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/alexmochu/randomphonegenerators.svg?branch=master)](https://travis-ci.com/alexmochu/randomphonegenerators)
+[![Coverage Status](https://coveralls.io/repos/github/alexmochu/randomphonegenerators/badge.svg?branch=master)](https://coveralls.io/github/alexmochu/randomphonegenerators?branch=master)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
