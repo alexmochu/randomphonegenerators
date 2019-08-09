@@ -6,7 +6,7 @@ cache:
   - node_modules
 script:
   - npm install
-  - npm run test
+  - npm run test -- --watch=false --codeCoverage=true
 after_success:
   - COVERALLS_REPO_TOKEN=$coveralls_repo_token 
   - npm run coveralls
